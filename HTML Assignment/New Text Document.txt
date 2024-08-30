@@ -1,1 +1,52 @@
-HTML Qye-Ans
+                                                             Web Designing Assignment
+
+                                                                             Term-1
+
+                                                                    Module(HTML)-
+
+
+
+=>Are the HTML tags and elements the same things?
+->Html rags and Elements are not the sme things both have different meaning-:
+    -HTML tags-The HTML tags have starting and ending tag.
+    -For EX-:<p></p>,<h1></h1>,<u></u>etc.
+    -Some tags do not have Ending tag and they are-:
+    -<img src="">,<br>,<a href=""> etc.
+->HTML Elements contain starting tag, content and Ending tag.
+   -FOr EX-:<p>Welcome To Web Designing</p>
+
+
+=>What are the Tags and Attribute in HTML?
+->Html rags and Elements are not the sme things both have different meaning-:
+    -HTML tags-The HTML tags have starting and ending tag.
+    -For EX-:<p></p>,<h1></h1>,<u></u>etc.
+    -Some tags do not have Ending tag and they are-:
+    -<img src="">,<br>,<a href=""> etc.
+->HTML Attribute are define the characterstices in HTML Element.
+-It means whatever the value we are enter in the attribute can change the behaviour of the element.
+-Fox Ex:-<img src="" width="500px" height"500px">  
+
+=>What are void element in HTML?
+->
+
+
+=>What are HTML entities?
+->
+
+
+=>What are different type of list in HTML?
+->Following types of list in HTML are-:
+     -Ordered List
+     -Unordered List
+     -Discription List
+
+=>What is the 'class' attribute in HTML?
+->Class attribute is used to target the specific element in the HTML and we create multiple class name in one element.
+-we point that class attribute name in the style sheet of CSS which is link with the HTML file.
+
+=>What is the differennce between the 'id' attribute and the 'class' attribute of HTML element?
+->Id Attribute-In 'id' attribute we can't specify multiple id in one element.
+
+
+
+
