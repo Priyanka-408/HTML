@@ -6,7 +6,7 @@
 
 
 
-=>Are the HTML tags and elements the same things?
+Q1.=>Are the HTML tags and elements the same things?
 ->Html rags and Elements are not the sme things both have different meaning-:
     -HTML tags-The HTML tags have starting and ending tag.
     -For EX-:<p></p>,<h1></h1>,<u></u>etc.
@@ -16,7 +16,7 @@
    -FOr EX-:<p>Welcome To Web Designing</p>
 
 
-=>What are the Tags and Attribute in HTML?
+Q2.=>What are the Tags and Attribute in HTML?
 ->Html rags and Elements are not the sme things both have different meaning-:
     -HTML tags-The HTML tags have starting and ending tag.
     -For EX-:<p></p>,<h1></h1>,<u></u>etc.
@@ -26,26 +26,92 @@
 -It means whatever the value we are enter in the attribute can change the behaviour of the element.
 -Fox Ex:-<img src="" width="500px" height"500px">  
 
-=>What are void element in HTML?
+Q3.=>What are void element in HTML?
 ->
 
 
-=>What are HTML entities?
+Q4.=>What are HTML entities?
 ->
 
 
-=>What are different type of list in HTML?
+Q5.=>What are different type of list in HTML?
 ->Following types of list in HTML are-:
      -Ordered List
      -Unordered List
      -Discription List
 
-=>What is the 'class' attribute in HTML?
+Q6=>What is the 'class' attribute in HTML?
 ->Class attribute is used to target the specific element in the HTML and we create multiple class name in one element.
 -we point that class attribute name in the style sheet of CSS which is link with the HTML file.
 
-=>What is the differennce between the 'id' attribute and the 'class' attribute of HTML element?
+Q7.=>What is the differennce between the 'id' attribute and the 'class' attribute of HTML element?
 ->Id Attribute-In 'id' attribute we can't specify multiple id in one element.
+->Class Attribute-In 'class' attribute we can create multiple classes in the same tags of element.
+
+Q8.=>What are the various formatting tags in HTML?
+->The following formatting tags are available in HTML which are given below-:
+        -Bold tag=<b></b>
+        -Italic tag=<i><i/>
+        -Underline=<u></u>
+        -strong=<strong></strong>
+        -Superscript=<sup></sup>
+       etc.
+
+Q9.=>How is Cell Pedding is different from Cell Spacing?
+->Cell Padding is used when we want padding inside the border of the cell.
+->whereas Cell Spacing is used for providing space between the multiple cell.
+
+Q10.=>How can we club two or more rows or column into a single row or column in an HTML table?
+->We can club two or more  rows into a single row  with the help of rowspan.
+->We can club two or more  column into a single column  with the help of colspan.
+
+
+Q11.=>What is the difference between a block-level element and an inline elememt?
+->Block-Level Element=The block element can occupie the 100% width of the web page.
+  ->Every block element is start from the new line
+->Inline Element=Inline element can occupie the specific text width which is display on the web page.
+ 
+
+Q12.=>How to create a Hyperlink in HTML?
+->We can create the Hyperlink with the help of  'Anchore Tag'.
+          <a href='#' ><a/>
+
+Q13,=>What is the use of an iframe tag?
+->iframe is used when we want the live videos in our web page form the another web page.
+
+Q14.=>What is the use of span tag?Explain with example?
+->The span tag is the only tag in HTML which does not have their own property or the specific meaning.
+     For Ex-: <span>content</span>
+
+Q15.=>How to insert a picture into a background image of a web page?
+->In CSS We can insert the background image using using background property.
+
+Q16.=>How are active link different from normal links?
+->
+
+
+Q17.=>What  are the different tags to separate setion of text?
+->With the help of <br> tag we can separate the section of text.
+
+Q18=>What is SVG?
+->Scaleable Vector Graphics
+
+Q19.=>What is different between HTML and XHTML?
+->Hyper Text Markup Language 
+
+
+Q20.=>What are logical and physical tags in HTML?
+->Logical Tags are denote the meaning of the specific tag such as:-
+       -<header></header>
+      -<footer></footer>
+      -<nav></nav>
+     <section></section> etc..
+
+->Physical Tags are thosee tags which does not have any meaning of the specific tag sich us:-
+       -<p></p>
+       
+
+
 
 
 
