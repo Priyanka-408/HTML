@@ -87,7 +87,8 @@ Q15.=>How to insert a picture into a background image of a web page?
 ->In CSS We can insert the background image using using background property.
 
 Q16.=>How are active link different from normal links?
-->
+->when we create active link it mean that whenever we click on that link the web page will open which is related to that URL.
+->The normnal links are look like link but when we click on that link it will display on the same page.
 
 
 Q17.=>What  are the different tags to separate setion of text?
