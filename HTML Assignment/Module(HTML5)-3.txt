@@ -1,0 +1,41 @@
+                                                
+                                                                     Module (HTML5) - 3
+
+
+
+Q1->What are the new tags added in HTML5? 
+Ans:-New Tags are added in HTML5 are:
+         -<article></article>
+        -<aside></aside>
+        -<audio></audio>
+       -<footer ></footer >
+       -<embed></embed>
+      -<figure></figure>
+      -<header></header>
+   etc....
+
+
+Q2->How to embed audio and video in a webpage?  
+Ans:-To embed audio and video in web page we use <audio></audio> and <video></video> tag.
+
+
+Q3->Semantic element in HTML5? 
+Ans:-Semantic elements in HTML5 are:
+          - <footer></footer>
+          - <header></header>
+         - <article></article>
+         - <figure></figure>
+        - <section></section>
+        - <summary></summary>
+        - <main></main>
+       - <nav></nav>
+    etc....
+
+
+Q4->Canvas and  SVG  tags  
+Ans:-Canva-:Canva 
+
+
+
+
+       
